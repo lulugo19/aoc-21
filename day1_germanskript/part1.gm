@@ -1,0 +1,18 @@
+verwende IO
+
+die Datei ist eine Datei mit dem Namen "input.txt"
+die Zahlen sind Datei:
+  lese die Zeilen!: 
+  transformiere<Zahl> euch mit etwas Transformierendem: die Zeichenfolge als Zahl.!
+
+eine AnZahl ist 0
+für jeden Index von 1 bis zur AnZahl der Zahlen:
+  wenn der Index gleich der AnZahl der Zahlen ist:
+    abbrechen
+  .
+  wenn die Zahl[Index] größer als die Zahl[Index - 1] ist:
+    eine AnZahl ist die AnZahl + 1
+  .
+.
+
+schreibe die AnZahl

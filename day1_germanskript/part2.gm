@@ -1,0 +1,21 @@
+verwende IO
+
+die Datei ist eine Datei mit dem Namen "input.txt"
+die Zahlen sind Datei:
+  lese die Zeilen!: 
+  transformiere<Zahl> euch mit etwas Transformierendem: die Zeichenfolge als Zahl.!
+
+eine AnZahl ist 0
+eine vorherigeSumme ist 1.000.000
+für jeden Index von 2 bis zur AnZahl der Zahlen:
+  wenn der Index gleich der AnZahl der Zahlen ist:
+    abbrechen
+  .
+  die Summe ist die Zahl[Index] +  die Zahl[Index - 1] +  die Zahl[Index - 2]
+  wenn die Summe größer als die vorherigeSumme ist:
+    eine AnZahl ist die AnZahl + 1
+  .
+  eine vorherigeSumme ist die Summe
+.
+
+schreibe die AnZahl
