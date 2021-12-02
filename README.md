@@ -15,7 +15,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] C
 - [ ] Prolog
 - [ ] PHP
-- [ ] Python
+- [x] Python
 - [ ] Lua
 - [ ] Dart
 - [ ] Go
@@ -35,4 +35,4 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Forth
 - [ ] Purescript
 - [ ] Haskell
-- [ ] EmojiiScript
+- [ ] Emojiicode
