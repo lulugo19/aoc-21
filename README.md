@@ -3,6 +3,8 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 
 ## ❇❇❇ The Days ❇❇❇
 - [Day1 in GermanSkript](./day1_germanskript/day1.md)
+- [Day2 in Python](./day2_python/day2.md)
+- [Day3 in Lua](./day3_lua/day3.md)
 
 ## Which programming language should I pick?
 - [ ] Java
@@ -16,7 +18,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Prolog
 - [ ] PHP
 - [x] Python
-- [ ] Lua
+- [x] Lua
 - [ ] Dart
 - [ ] Go
 - [ ] APL
