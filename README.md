@@ -5,6 +5,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [Day1 in GermanSkript](./day1_germanskript/day1.md)
 - [Day2 in Python](./day2_python/day2.md)
 - [Day3 in Lua](./day3_lua/day3.md)
+- [Day4 in F#](./day4_fsharp/day4.md)
 
 ## Which programming language should I pick?
 - [ ] Java
@@ -25,7 +26,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Haskell
 - [ ] Zig
 - [ ] Nim
-- [ ] F#
+- [x] F#
 - [ ] Scala
 - [x] GermanSkript
 - [ ] Racket
