@@ -6,6 +6,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [Day2 in Python](./day2_python/day2.md)
 - [Day3 in Lua](./day3_lua/day3.md)
 - [Day4 in F#](./day4_fsharp/day4.md)
+- [Day5 in C++](./day5_cpp/day5.md)
 
 ## Which programming language should I pick?
 - [ ] Java
@@ -15,7 +16,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Elm
 - [ ] Elixir
 - [ ] Rust
-- [ ] C
+- [x] C++
 - [ ] Prolog
 - [ ] PHP
 - [x] Python
