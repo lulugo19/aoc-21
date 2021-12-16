@@ -7,11 +7,13 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [Day3 in Lua](./day3_lua/day3.md)
 - [Day4 in F#](./day4_fsharp/day4.md)
 - [Day5 in C++](./day5_cpp/day5.md)
+- [Day 6 in Ruby](./day6_ruby/day6.md)
+- [Day 7 in R](./day7_r/day7.md)
 
 ## Which programming language should I pick?
 - [ ] Java
 - [ ] Kotlin
-- [ ] Ruby
+- [x] Ruby
 - [ ] Javascript
 - [ ] Elm
 - [ ] Elixir
@@ -33,7 +35,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Racket
 - [ ] Julia
 - [ ] OCaml
-- [ ] R
+- [x] R
 - [ ] Haxe
 - [ ] Odin
 - [ ] Forth
