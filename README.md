@@ -10,6 +10,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [Day 6 in Ruby](./day6_ruby/day6.md)
 - [Day 7 in R](./day7_r/day7.md)
 - [Day 8 in Elixir](./day8_elixir/day8.md)
+- [Day 9 in Haxe](./day9_haxe/day9.md)
 
 ## Which programming language should I pick?
 - [ ] Java
@@ -37,7 +38,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Julia
 - [ ] OCaml
 - [x] R
-- [ ] Haxe
+- [x] Haxe
 - [ ] Odin
 - [ ] Forth
 - [ ] Purescript
