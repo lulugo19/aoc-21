@@ -12,6 +12,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [Day 8 in Elixir](./day8_elixir/day8.md)
 - [Day 9 in Haxe](./day9_haxe/day9.md)
 - [Day 10 in Java](./day10_java/day10.md)
+- [Day 11 in Rust](./day11_rust/day11.md)
 
 ## Which programming language should I pick?
 - [x] Java
@@ -20,7 +21,7 @@ Solving [Advent of Code in 2021](https://adventofcode.com/2021) with a different
 - [ ] Javascript
 - [ ] Elm
 - [x] Elixir
-- [ ] Rust
+- [x] Rust
 - [x] C++
 - [ ] Prolog
 - [ ] PHP
